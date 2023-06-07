@@ -32,7 +32,7 @@ const App = () => {
  
 const styles = StyleSheet.create({
   container: {
-    flexDirection: 'columne',
+    flexDirection: 'column',
     justifyContent: 'space-between',
     width:'100%',
     backgroundColor: '#ffffff',
